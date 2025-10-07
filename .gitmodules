@@ -5,4 +5,4 @@
 [submodule "submodules/QC-App-Oriented-Benchmarks"]
 	path = submodules/QC-App-Oriented-Benchmarks
 	url = https://github.com/SRI-International/QC-App-Oriented-Benchmarks.git
-	branch = qedc-app-bms
+	branch = fix-qedcbms-package-structure

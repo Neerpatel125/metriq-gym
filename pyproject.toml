@@ -1,5 +1,6 @@
 [project]
 name = "metriq-gym"
+version = "0.1.0"
 description = "Framework for implementing and running standard quantum benchmarks on different quantum devices by different providers."
 authors = [
     { name = "Unitary Foundation team", email = "metriq@unitary.foundation" }
